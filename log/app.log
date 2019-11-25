@@ -1,0 +1,1787 @@
+2019-07-28 19:53:46,056:INFO:DataLoad Object Created
+2019-07-28 19:53:46,056:INFO:InitialDataAnalysis Object Created
+2019-07-28 19:53:46,056:INFO:PreProcessing Object Created
+2019-07-28 19:53:46,056:INFO:DataModelling Object Created
+2019-07-28 19:53:46,056:INFO:Visualizer Object Created
+2019-07-28 19:53:46,056:INFO:Utility Object Created
+2019-07-28 19:53:46,091:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-28 19:53:46,112:INFO:Utility Object Created
+2019-07-28 19:53:46,226:INFO:                    ds   y  ...  y_log_ewma  y_log_ewma_diff
+6  2011-01-01 06:00:00   2  ...    0.693147         0.000000
+7  2011-01-01 07:00:00   3  ...    0.905909         0.192703
+8  2011-01-01 08:00:00   8  ...    1.336396         0.743046
+9  2011-01-01 09:00:00  14  ...    1.711905         0.927153
+10 2011-01-01 10:00:00  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-28 19:53:46,341:INFO:for ARIMA model 0 0 2 for y_log_diff, MAE: 0.4292 RMSE: 0.6176
+2019-07-28 19:58:42,347:INFO:DataLoad Object Created
+2019-07-28 19:58:42,348:INFO:InitialDataAnalysis Object Created
+2019-07-28 19:58:42,348:INFO:PreProcessing Object Created
+2019-07-28 19:58:42,348:INFO:DataModelling Object Created
+2019-07-28 19:58:42,348:INFO:Visualizer Object Created
+2019-07-28 19:58:42,348:INFO:Utility Object Created
+2019-07-28 19:58:42,404:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-28 19:58:42,436:INFO:Utility Object Created
+2019-07-28 19:58:42,562:INFO:                    ds   y  ...  y_log_ewma  y_log_ewma_diff
+6  2011-01-01 06:00:00   2  ...    0.693147         0.000000
+7  2011-01-01 07:00:00   3  ...    0.905909         0.192703
+8  2011-01-01 08:00:00   8  ...    1.336396         0.743046
+9  2011-01-01 09:00:00  14  ...    1.711905         0.927153
+10 2011-01-01 10:00:00  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-28 19:58:42,704:INFO:for ARIMA model 0 0 2 for y_log_diff, MAE: 0.4292 RMSE: 0.6176
+2019-07-28 19:59:14,545:INFO:DataLoad Object Created
+2019-07-28 19:59:14,545:INFO:InitialDataAnalysis Object Created
+2019-07-28 19:59:14,545:INFO:PreProcessing Object Created
+2019-07-28 19:59:14,545:INFO:DataModelling Object Created
+2019-07-28 19:59:14,545:INFO:Visualizer Object Created
+2019-07-28 19:59:14,545:INFO:Utility Object Created
+2019-07-28 19:59:14,578:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-28 19:59:14,599:INFO:Utility Object Created
+2019-07-28 19:59:14,711:INFO:                    ds   y  ...  y_log_ewma  y_log_ewma_diff
+6  2011-01-01 06:00:00   2  ...    0.693147         0.000000
+7  2011-01-01 07:00:00   3  ...    0.905909         0.192703
+8  2011-01-01 08:00:00   8  ...    1.336396         0.743046
+9  2011-01-01 09:00:00  14  ...    1.711905         0.927153
+10 2011-01-01 10:00:00  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-28 19:59:14,826:INFO:for ARIMA model 0 0 2 for y_log_diff, MAE: 0.4292 RMSE: 0.6176
+2019-07-28 20:00:15,014:INFO:DataLoad Object Created
+2019-07-28 20:00:15,056:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-28 20:50:11,455:INFO:DataLoad Object Created
+2019-07-28 20:50:11,456:INFO:InitialDataAnalysis Object Created
+2019-07-28 20:50:11,456:INFO:PreProcessing Object Created
+2019-07-28 20:50:11,456:INFO:DataModelling Object Created
+2019-07-28 20:50:11,456:INFO:Visualizer Object Created
+2019-07-28 20:50:11,457:INFO:Utility Object Created
+2019-07-28 20:50:11,505:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-28 20:50:11,538:INFO:Utility Object Created
+2019-07-28 20:50:11,665:INFO:                    ds   y  ...  y_log_ewma  y_log_ewma_diff
+6  2011-01-01 06:00:00   2  ...    0.693147         0.000000
+7  2011-01-01 07:00:00   3  ...    0.905909         0.192703
+8  2011-01-01 08:00:00   8  ...    1.336396         0.743046
+9  2011-01-01 09:00:00  14  ...    1.711905         0.927153
+10 2011-01-01 10:00:00  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-28 20:50:11,690:INFO:Initializing ARIMA Data Modelling 
+2019-07-28 20:50:11,796:INFO:Making predictions for ARIMA Data Modelling 
+2019-07-28 20:50:11,798:INFO:ARIMA Data Modelling Done
+2019-07-28 20:50:11,799:INFO:for ARIMA model 0 0 2 for y_log_diff, MAE: 0.4292 RMSE: 0.6176
+2019-07-28 21:17:40,528:INFO:DataLoad Object Created
+2019-07-28 21:17:40,528:INFO:InitialDataAnalysis Object Created
+2019-07-28 21:17:40,529:INFO:PreProcessing Object Created
+2019-07-28 21:17:40,529:INFO:DataModelling Object Created
+2019-07-28 21:17:40,529:INFO:Visualizer Object Created
+2019-07-28 21:17:40,529:INFO:Utility Object Created
+2019-07-28 21:17:40,578:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-28 21:17:40,612:INFO:Utility Object Created
+2019-07-28 21:17:40,741:INFO:                    ds   y  ...  y_log_ewma  y_log_ewma_diff
+6  2011-01-01 06:00:00   2  ...    0.693147         0.000000
+7  2011-01-01 07:00:00   3  ...    0.905909         0.192703
+8  2011-01-01 08:00:00   8  ...    1.336396         0.743046
+9  2011-01-01 09:00:00  14  ...    1.711905         0.927153
+10 2011-01-01 10:00:00  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-28 21:17:44,749:INFO:Initializing ARIMA Data Modelling 
+2019-07-28 21:17:44,860:INFO:Making predictions for ARIMA Data Modelling 
+2019-07-28 21:17:44,863:INFO:ARIMA Data Modelling Done
+2019-07-28 21:17:44,863:INFO:for ARIMA model 0 0 2 for y_log_diff, MAE: 0.4292 RMSE: 0.6176
+2019-07-28 21:18:12,140:INFO:DataLoad Object Created
+2019-07-28 21:18:12,140:INFO:InitialDataAnalysis Object Created
+2019-07-28 21:18:12,140:INFO:PreProcessing Object Created
+2019-07-28 21:18:12,140:INFO:DataModelling Object Created
+2019-07-28 21:18:12,140:INFO:Visualizer Object Created
+2019-07-28 21:18:12,140:INFO:Utility Object Created
+2019-07-28 21:18:12,172:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-28 21:18:12,196:INFO:Utility Object Created
+2019-07-28 21:18:12,309:INFO:                    ds   y  ...  y_log_ewma  y_log_ewma_diff
+6  2011-01-01 06:00:00   2  ...    0.693147         0.000000
+7  2011-01-01 07:00:00   3  ...    0.905909         0.192703
+8  2011-01-01 08:00:00   8  ...    1.336396         0.743046
+9  2011-01-01 09:00:00  14  ...    1.711905         0.927153
+10 2011-01-01 10:00:00  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-28 21:18:14,961:INFO:Initializing ARIMA Data Modelling 
+2019-07-28 21:18:15,029:INFO:Making predictions for ARIMA Data Modelling 
+2019-07-28 21:18:15,032:INFO:ARIMA Data Modelling Done
+2019-07-28 21:18:15,032:INFO:for ARIMA model 0 0 1 for y_log_diff, MAE: 0.4477 RMSE: 0.6353
+2019-07-29 18:42:32,184:INFO:DataLoad Object Created
+2019-07-29 18:42:32,241:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:42:32,243:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:42:32,243:INFO:DataLoad Object Created
+2019-07-29 18:42:32,299:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:43:24,759:INFO:DataLoad Object Created
+2019-07-29 18:43:24,833:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:44:37,733:INFO:DataLoad Object Created
+2019-07-29 18:44:37,773:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:45:33,753:INFO:DataLoad Object Created
+2019-07-29 18:45:33,787:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:45:33,788:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:45:33,788:INFO:DataLoad Object Created
+2019-07-29 18:45:33,817:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:46:05,373:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:46:05,374:INFO:DataLoad Object Created
+2019-07-29 18:46:05,406:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:46:22,473:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:46:22,473:INFO:DataLoad Object Created
+2019-07-29 18:46:22,506:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:46:32,044:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:46:32,046:INFO:DataLoad Object Created
+2019-07-29 18:46:32,086:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:46:56,615:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:46:56,615:INFO:DataLoad Object Created
+2019-07-29 18:46:56,649:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:47:11,740:INFO:DataLoad Object Created
+2019-07-29 18:47:11,772:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:47:11,772:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:47:11,773:INFO:DataLoad Object Created
+2019-07-29 18:47:11,801:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:52:00,967:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:52:00,968:INFO:DataLoad Object Created
+2019-07-29 18:52:01,007:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:52:01,104:INFO:DataLoad Object Created
+2019-07-29 18:52:01,137:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:52:01,137:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:52:01,137:INFO:DataLoad Object Created
+2019-07-29 18:52:01,170:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:53:12,131:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:53:12,132:INFO:DataLoad Object Created
+2019-07-29 18:53:12,164:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:53:12,170:INFO:DataLoad Object Created
+2019-07-29 18:53:12,201:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:53:12,202:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:53:12,202:INFO:DataLoad Object Created
+2019-07-29 18:53:12,231:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:53:41,495:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:53:41,495:INFO:DataLoad Object Created
+2019-07-29 18:53:41,531:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:53:41,545:INFO:DataLoad Object Created
+2019-07-29 18:53:41,583:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:53:41,583:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:53:41,584:INFO:DataLoad Object Created
+2019-07-29 18:53:41,617:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:58:04,808:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:58:04,809:INFO:DataLoad Object Created
+2019-07-29 18:58:04,857:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:58:04,897:INFO:DataLoad Object Created
+2019-07-29 18:58:04,932:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:58:04,933:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:58:04,933:INFO:DataLoad Object Created
+2019-07-29 18:58:04,970:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:58:04,979:INFO:ExploratoryDataAnalysis Created
+2019-07-29 18:58:28,624:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:58:28,625:INFO:DataLoad Object Created
+2019-07-29 18:58:28,679:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:58:28,725:INFO:DataLoad Object Created
+2019-07-29 18:58:28,761:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:58:28,762:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:58:28,762:INFO:DataLoad Object Created
+2019-07-29 18:58:28,802:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:58:28,811:INFO:ExploratoryDataAnalysis Created
+2019-07-29 18:59:55,115:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:59:55,115:INFO:DataLoad Object Created
+2019-07-29 18:59:55,162:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:59:55,196:INFO:DataLoad Object Created
+2019-07-29 18:59:55,232:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:59:55,233:INFO:InitialDataAnalysis Object Created
+2019-07-29 18:59:55,233:INFO:DataLoad Object Created
+2019-07-29 18:59:55,268:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:59:55,279:INFO:ExploratoryDataAnalysis Created
+2019-07-29 18:59:55,279:INFO:DataLoad Object Created
+2019-07-29 18:59:55,313:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 18:59:55,314:INFO:Result of Dickey-Fuller Test
+2019-07-29 18:59:56,274:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 18:59:56,276:INFO:Dickey-Fuller Test Done
+2019-07-29 19:01:26,304:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:01:26,305:INFO:DataLoad Object Created
+2019-07-29 19:01:26,352:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:01:26,390:INFO:DataLoad Object Created
+2019-07-29 19:01:26,429:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:01:26,430:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:01:26,430:INFO:DataLoad Object Created
+2019-07-29 19:01:26,468:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:01:26,479:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:01:26,479:INFO:DataLoad Object Created
+2019-07-29 19:01:26,515:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:01:26,515:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:01:27,436:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:01:27,437:INFO:Dickey-Fuller Test Done
+2019-07-29 19:07:30,805:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:07:30,805:INFO:DataLoad Object Created
+2019-07-29 19:07:30,840:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:07:30,854:INFO:DataLoad Object Created
+2019-07-29 19:07:30,883:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:07:30,884:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:07:30,884:INFO:DataLoad Object Created
+2019-07-29 19:07:30,913:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:07:30,920:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:07:30,920:INFO:DataLoad Object Created
+2019-07-29 19:07:30,949:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:07:30,949:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:07:31,838:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:07:31,838:INFO:Dickey-Fuller Test Done
+2019-07-29 19:09:02,671:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:09:02,671:INFO:DataLoad Object Created
+2019-07-29 19:09:02,708:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:09:02,722:INFO:DataLoad Object Created
+2019-07-29 19:09:02,756:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:09:02,757:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:09:02,757:INFO:DataLoad Object Created
+2019-07-29 19:09:02,789:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:09:02,796:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:09:02,796:INFO:DataLoad Object Created
+2019-07-29 19:09:02,828:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:09:02,829:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:09:03,663:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:09:03,672:INFO:Dickey-Fuller Test Done
+2019-07-29 19:09:43,204:INFO:DataLoad Object Created
+2019-07-29 19:09:43,204:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:09:43,205:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:09:43,205:INFO:PreProcessing Object Created
+2019-07-29 19:09:43,205:INFO:DataModelling Object Created
+2019-07-29 19:09:43,205:INFO:Visualizer Object Created
+2019-07-29 19:09:43,205:INFO:Utility Object Created
+2019-07-29 19:09:43,236:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:09:43,260:INFO:Utility Object Created
+2019-07-29 19:09:43,261:INFO:Data transformation started
+2019-07-29 19:09:43,380:INFO:                    ds   y  ...  y_log_ewma  y_log_ewma_diff
+6  2011-01-01 06:00:00   2  ...    0.693147         0.000000
+7  2011-01-01 07:00:00   3  ...    0.905909         0.192703
+8  2011-01-01 08:00:00   8  ...    1.336396         0.743046
+9  2011-01-01 09:00:00  14  ...    1.711905         0.927153
+10 2011-01-01 10:00:00  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:09:43,402:INFO:Data transformation Done
+2019-07-29 19:09:43,402:INFO:Getting acf and pacf data
+2019-07-29 19:09:43,475:INFO:acf and pacf data acquired
+2019-07-29 19:10:02,687:INFO:DataLoad Object Created
+2019-07-29 19:10:02,687:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:10:02,687:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:10:02,687:INFO:PreProcessing Object Created
+2019-07-29 19:10:02,687:INFO:DataModelling Object Created
+2019-07-29 19:10:02,687:INFO:Visualizer Object Created
+2019-07-29 19:10:02,687:INFO:Utility Object Created
+2019-07-29 19:10:02,717:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:10:02,738:INFO:Utility Object Created
+2019-07-29 19:10:02,739:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:10:03,580:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:10:03,591:INFO:Dickey-Fuller Test Done
+2019-07-29 19:10:03,591:INFO:Data transformation started
+2019-07-29 19:10:03,710:INFO:                    ds   y  ...  y_log_ewma  y_log_ewma_diff
+6  2011-01-01 06:00:00   2  ...    0.693147         0.000000
+7  2011-01-01 07:00:00   3  ...    0.905909         0.192703
+8  2011-01-01 08:00:00   8  ...    1.336396         0.743046
+9  2011-01-01 09:00:00  14  ...    1.711905         0.927153
+10 2011-01-01 10:00:00  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:10:03,725:INFO:Data transformation Done
+2019-07-29 19:10:03,725:INFO:Getting acf and pacf data
+2019-07-29 19:10:03,778:INFO:acf and pacf data acquired
+2019-07-29 19:10:06,017:INFO:Initializing ARIMA Data Modelling 
+2019-07-29 19:10:06,168:INFO:Making predictions for ARIMA Data Modelling 
+2019-07-29 19:10:06,174:INFO:ARIMA Data Modelling Done
+2019-07-29 19:10:06,174:INFO:for ARIMA model 0 0 2 for y_log_diff, MAE: 0.4292 RMSE: 0.6176
+2019-07-29 19:16:54,022:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:16:54,022:INFO:DataLoad Object Created
+2019-07-29 19:16:54,061:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:16:54,061:INFO:Data transformation started
+2019-07-29 19:16:54,074:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:16:54,074:INFO:DataLoad Object Created
+2019-07-29 19:16:54,110:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:16:54,125:INFO:DataLoad Object Created
+2019-07-29 19:16:54,154:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:16:54,154:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:16:54,155:INFO:DataLoad Object Created
+2019-07-29 19:16:54,182:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:16:54,194:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:16:54,194:INFO:DataLoad Object Created
+2019-07-29 19:16:54,225:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:16:54,225:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:16:55,243:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:16:55,244:INFO:Dickey-Fuller Test Done
+2019-07-29 19:17:07,381:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:17:07,381:INFO:DataLoad Object Created
+2019-07-29 19:17:07,427:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:17:08,952:INFO:Data transformation started
+2019-07-29 19:17:35,543:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:17:35,544:INFO:DataLoad Object Created
+2019-07-29 19:17:35,596:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:17:35,596:INFO:Data transformation started
+2019-07-29 19:17:35,607:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:17:35,608:INFO:DataLoad Object Created
+2019-07-29 19:17:35,650:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:17:35,680:INFO:DataLoad Object Created
+2019-07-29 19:17:35,715:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:17:35,716:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:17:35,716:INFO:DataLoad Object Created
+2019-07-29 19:17:35,755:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:17:35,764:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:17:35,764:INFO:DataLoad Object Created
+2019-07-29 19:17:35,798:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:17:35,798:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:17:36,641:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:17:36,643:INFO:Dickey-Fuller Test Done
+2019-07-29 19:19:15,160:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:19:19,399:INFO:DataLoad Object Created
+2019-07-29 19:19:19,478:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:19:54,479:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:19:54,480:INFO:DataLoad Object Created
+2019-07-29 19:19:54,527:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:19:54,529:INFO:Data transformation started
+2019-07-29 19:19:54,639:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:19:54,672:INFO:Data transformation Done
+2019-07-29 19:20:24,506:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:20:24,506:INFO:DataLoad Object Created
+2019-07-29 19:20:24,545:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:20:24,546:INFO:Data transformation started
+2019-07-29 19:20:24,614:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:20:24,631:INFO:Data transformation Done
+2019-07-29 19:20:24,670:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:20:24,670:INFO:DataLoad Object Created
+2019-07-29 19:20:24,714:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:20:24,736:INFO:DataLoad Object Created
+2019-07-29 19:20:24,768:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:20:24,769:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:20:24,769:INFO:DataLoad Object Created
+2019-07-29 19:20:24,807:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:20:24,814:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:20:24,814:INFO:DataLoad Object Created
+2019-07-29 19:20:24,847:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:20:24,848:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:20:25,710:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:20:25,710:INFO:Dickey-Fuller Test Done
+2019-07-29 19:21:04,165:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:21:04,165:INFO:DataLoad Object Created
+2019-07-29 19:21:04,201:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:21:04,202:INFO:Data transformation started
+2019-07-29 19:21:04,278:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:21:04,292:INFO:Data transformation Done
+2019-07-29 19:21:04,315:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:21:04,315:INFO:DataLoad Object Created
+2019-07-29 19:21:04,350:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:21:04,364:INFO:DataLoad Object Created
+2019-07-29 19:21:04,393:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:21:04,393:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:21:04,393:INFO:DataLoad Object Created
+2019-07-29 19:21:04,423:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:21:04,430:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:21:04,430:INFO:DataLoad Object Created
+2019-07-29 19:21:04,458:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:21:04,458:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:21:05,400:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:21:05,401:INFO:Dickey-Fuller Test Done
+2019-07-29 19:22:40,624:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:22:40,625:INFO:DataLoad Object Created
+2019-07-29 19:22:40,664:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:22:40,666:INFO:Data transformation started
+2019-07-29 19:22:40,737:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:22:40,750:INFO:Data transformation Done
+2019-07-29 19:22:40,787:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:22:40,787:INFO:DataLoad Object Created
+2019-07-29 19:22:40,820:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:22:40,833:INFO:DataLoad Object Created
+2019-07-29 19:22:40,866:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:22:40,866:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:22:40,866:INFO:DataLoad Object Created
+2019-07-29 19:22:40,897:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:22:40,904:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:22:40,904:INFO:DataLoad Object Created
+2019-07-29 19:22:40,941:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:22:40,941:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:22:41,727:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:22:41,728:INFO:Dickey-Fuller Test Done
+2019-07-29 19:23:11,083:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:23:11,083:INFO:DataLoad Object Created
+2019-07-29 19:23:11,119:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:23:11,120:INFO:Data transformation started
+2019-07-29 19:23:11,188:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:23:11,201:INFO:Data transformation Done
+2019-07-29 19:23:11,232:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:23:11,232:INFO:DataLoad Object Created
+2019-07-29 19:23:11,268:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:23:11,281:INFO:DataLoad Object Created
+2019-07-29 19:23:11,315:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:23:11,315:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:23:11,315:INFO:DataLoad Object Created
+2019-07-29 19:23:11,345:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:23:11,351:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:23:11,351:INFO:DataLoad Object Created
+2019-07-29 19:23:11,385:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:23:11,385:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:23:12,190:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:23:12,191:INFO:Dickey-Fuller Test Done
+2019-07-29 19:23:42,878:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:23:42,878:INFO:DataLoad Object Created
+2019-07-29 19:23:42,914:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:23:42,915:INFO:Data transformation started
+2019-07-29 19:23:42,989:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:23:43,002:INFO:Data transformation Done
+2019-07-29 19:23:43,035:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:23:43,035:INFO:DataLoad Object Created
+2019-07-29 19:23:43,071:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:23:43,084:INFO:DataLoad Object Created
+2019-07-29 19:23:43,112:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:23:43,112:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:23:43,112:INFO:DataLoad Object Created
+2019-07-29 19:23:43,146:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:23:43,153:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:23:43,153:INFO:DataLoad Object Created
+2019-07-29 19:23:43,188:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:23:43,188:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:23:44,001:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:23:44,003:INFO:Dickey-Fuller Test Done
+2019-07-29 19:24:00,762:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:24:00,763:INFO:DataLoad Object Created
+2019-07-29 19:24:00,803:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:24:00,804:INFO:Data transformation started
+2019-07-29 19:24:00,871:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:24:00,885:INFO:Data transformation Done
+2019-07-29 19:24:00,926:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:24:00,926:INFO:DataLoad Object Created
+2019-07-29 19:24:00,959:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:24:00,973:INFO:DataLoad Object Created
+2019-07-29 19:24:01,005:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:24:01,006:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:24:01,006:INFO:DataLoad Object Created
+2019-07-29 19:24:01,037:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:24:01,042:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:24:01,042:INFO:DataLoad Object Created
+2019-07-29 19:24:01,076:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:24:01,077:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:24:01,868:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:24:01,869:INFO:Dickey-Fuller Test Done
+2019-07-29 19:27:08,830:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:27:08,830:INFO:DataLoad Object Created
+2019-07-29 19:27:08,877:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:27:08,883:INFO:Data transformation started
+2019-07-29 19:27:08,979:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:27:08,996:INFO:Data transformation Done
+2019-07-29 19:27:09,047:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:27:09,047:INFO:DataLoad Object Created
+2019-07-29 19:27:09,088:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:27:09,126:INFO:DataLoad Object Created
+2019-07-29 19:27:09,163:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:27:09,164:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:27:09,164:INFO:DataLoad Object Created
+2019-07-29 19:27:09,200:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:27:09,206:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:27:09,206:INFO:DataLoad Object Created
+2019-07-29 19:27:09,241:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:27:09,241:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:27:10,202:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:27:10,203:INFO:Dickey-Fuller Test Done
+2019-07-29 19:30:37,017:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:30:37,018:INFO:DataLoad Object Created
+2019-07-29 19:30:37,058:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:30:37,059:INFO:Data transformation started
+2019-07-29 19:30:37,139:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:30:37,153:INFO:Data transformation Done
+2019-07-29 19:30:37,180:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:30:37,180:INFO:DataLoad Object Created
+2019-07-29 19:30:37,213:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:30:37,226:INFO:DataLoad Object Created
+2019-07-29 19:30:37,259:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:30:37,259:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:30:37,259:INFO:DataLoad Object Created
+2019-07-29 19:30:37,289:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:30:37,295:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:30:37,295:INFO:DataLoad Object Created
+2019-07-29 19:30:37,326:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:30:37,327:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:30:38,130:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:30:38,131:INFO:Dickey-Fuller Test Done
+2019-07-29 19:32:11,550:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:32:11,550:INFO:DataLoad Object Created
+2019-07-29 19:32:11,589:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:32:11,590:INFO:Data transformation started
+2019-07-29 19:32:11,659:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:32:11,673:INFO:Data transformation Done
+2019-07-29 19:32:11,696:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:32:11,696:INFO:DataLoad Object Created
+2019-07-29 19:32:11,727:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:32:11,740:INFO:DataLoad Object Created
+2019-07-29 19:32:11,771:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:32:11,771:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:32:11,771:INFO:DataLoad Object Created
+2019-07-29 19:32:11,801:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:32:11,807:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:32:11,807:INFO:DataLoad Object Created
+2019-07-29 19:32:11,839:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:32:11,839:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:32:12,634:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:32:12,635:INFO:Dickey-Fuller Test Done
+2019-07-29 19:32:35,987:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:32:35,987:INFO:DataLoad Object Created
+2019-07-29 19:32:36,046:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:32:40,397:INFO:Data transformation started
+2019-07-29 19:32:40,637:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:32:40,714:INFO:Data transformation Done
+2019-07-29 19:34:17,020:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:34:17,020:INFO:DataLoad Object Created
+2019-07-29 19:34:17,069:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:34:19,535:INFO:Data transformation started
+2019-07-29 19:34:19,782:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:34:19,861:INFO:Data transformation Done
+2019-07-29 19:34:32,344:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:34:32,345:INFO:DataLoad Object Created
+2019-07-29 19:34:32,383:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:34:32,384:INFO:Data transformation started
+2019-07-29 19:34:32,468:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:34:32,488:INFO:Data transformation Done
+2019-07-29 19:34:32,503:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:34:32,503:INFO:DataLoad Object Created
+2019-07-29 19:34:32,541:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:34:32,558:INFO:DataLoad Object Created
+2019-07-29 19:34:32,593:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:34:32,593:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:34:32,593:INFO:DataLoad Object Created
+2019-07-29 19:34:32,629:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:34:32,636:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:34:32,636:INFO:DataLoad Object Created
+2019-07-29 19:34:32,665:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:34:32,666:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:34:33,575:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:34:33,585:INFO:Dickey-Fuller Test Done
+2019-07-29 19:34:57,133:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:34:57,133:INFO:DataLoad Object Created
+2019-07-29 19:34:57,172:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:34:57,173:INFO:Data transformation started
+2019-07-29 19:34:57,248:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:34:57,261:INFO:Data transformation Done
+2019-07-29 19:34:57,291:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:34:57,291:INFO:DataLoad Object Created
+2019-07-29 19:34:57,328:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:34:57,341:INFO:DataLoad Object Created
+2019-07-29 19:34:57,371:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:34:57,372:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:34:57,372:INFO:DataLoad Object Created
+2019-07-29 19:34:57,402:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:34:57,408:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:34:57,408:INFO:DataLoad Object Created
+2019-07-29 19:34:57,442:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:34:57,442:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:34:58,249:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:34:58,249:INFO:Dickey-Fuller Test Done
+2019-07-29 19:35:48,999:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:35:49,000:INFO:DataLoad Object Created
+2019-07-29 19:35:49,037:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:35:49,038:INFO:Data transformation started
+2019-07-29 19:35:49,112:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:35:49,128:INFO:Data transformation Done
+2019-07-29 19:35:49,150:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:35:49,150:INFO:DataLoad Object Created
+2019-07-29 19:35:49,183:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:35:49,196:INFO:DataLoad Object Created
+2019-07-29 19:35:49,228:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:35:49,229:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:35:49,229:INFO:DataLoad Object Created
+2019-07-29 19:35:49,261:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:35:49,267:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:35:49,267:INFO:DataLoad Object Created
+2019-07-29 19:35:49,297:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:35:49,297:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:35:50,097:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:35:50,097:INFO:Dickey-Fuller Test Done
+2019-07-29 19:36:13,016:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:36:13,017:INFO:DataLoad Object Created
+2019-07-29 19:36:13,066:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:36:27,196:INFO:Data transformation started
+2019-07-29 19:36:27,437:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:36:27,523:INFO:Data transformation Done
+2019-07-29 19:38:19,722:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:38:19,722:INFO:DataLoad Object Created
+2019-07-29 19:38:19,762:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:38:19,763:INFO:Data transformation started
+2019-07-29 19:38:19,851:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:38:19,870:INFO:Data transformation Done
+2019-07-29 19:38:19,872:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:38:19,872:INFO:DataLoad Object Created
+2019-07-29 19:38:19,912:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:38:19,931:INFO:DataLoad Object Created
+2019-07-29 19:38:19,966:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:38:19,967:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:38:19,967:INFO:DataLoad Object Created
+2019-07-29 19:38:20,006:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:38:20,013:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:38:20,013:INFO:DataLoad Object Created
+2019-07-29 19:38:20,049:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:38:20,049:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:38:20,882:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:38:20,883:INFO:Dickey-Fuller Test Done
+2019-07-29 19:38:48,123:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:38:48,123:INFO:DataLoad Object Created
+2019-07-29 19:38:48,158:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:38:48,160:INFO:Data transformation started
+2019-07-29 19:38:48,237:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:38:48,251:INFO:Data transformation Done
+2019-07-29 19:38:48,261:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:38:48,261:INFO:DataLoad Object Created
+2019-07-29 19:38:48,297:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:38:48,310:INFO:DataLoad Object Created
+2019-07-29 19:38:48,343:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:38:48,343:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:38:48,343:INFO:DataLoad Object Created
+2019-07-29 19:38:48,374:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:38:48,379:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:38:48,379:INFO:DataLoad Object Created
+2019-07-29 19:38:48,409:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:38:48,409:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:38:49,210:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:38:49,210:INFO:Dickey-Fuller Test Done
+2019-07-29 19:39:44,070:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:39:44,072:INFO:DataLoad Object Created
+2019-07-29 19:39:44,129:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:39:49,438:INFO:Data transformation started
+2019-07-29 19:39:49,681:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:39:49,761:INFO:Data transformation Done
+2019-07-29 19:41:14,583:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:41:14,583:INFO:DataLoad Object Created
+2019-07-29 19:41:14,623:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:41:14,625:INFO:Data transformation started
+2019-07-29 19:41:14,712:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:41:14,733:INFO:Data transformation Done
+2019-07-29 19:41:15,170:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:41:15,170:INFO:DataLoad Object Created
+2019-07-29 19:41:15,202:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:41:15,217:INFO:DataLoad Object Created
+2019-07-29 19:41:15,251:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:41:15,252:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:41:15,252:INFO:DataLoad Object Created
+2019-07-29 19:41:15,283:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:41:15,289:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:41:15,289:INFO:DataLoad Object Created
+2019-07-29 19:41:15,322:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:41:15,322:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:41:16,194:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:41:16,195:INFO:Dickey-Fuller Test Done
+2019-07-29 19:41:49,731:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:41:49,731:INFO:DataLoad Object Created
+2019-07-29 19:41:49,766:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:41:49,768:INFO:Data transformation started
+2019-07-29 19:41:49,842:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:41:49,860:INFO:Data transformation Done
+2019-07-29 19:41:50,297:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:41:50,297:INFO:DataLoad Object Created
+2019-07-29 19:41:50,335:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:41:50,348:INFO:DataLoad Object Created
+2019-07-29 19:41:50,383:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:41:50,383:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:41:50,383:INFO:DataLoad Object Created
+2019-07-29 19:41:50,412:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:41:50,418:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:41:50,418:INFO:DataLoad Object Created
+2019-07-29 19:41:50,449:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:41:50,450:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:41:51,248:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:41:51,248:INFO:Dickey-Fuller Test Done
+2019-07-29 19:42:41,044:INFO:DataLoad Object Created
+2019-07-29 19:42:41,045:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:42:41,045:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:42:41,046:INFO:PreProcessing Object Created
+2019-07-29 19:42:41,046:INFO:DataModelling Object Created
+2019-07-29 19:42:41,047:INFO:Visualizer Object Created
+2019-07-29 19:42:41,047:INFO:Utility Object Created
+2019-07-29 19:42:41,135:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:42:41,204:INFO:Utility Object Created
+2019-07-29 19:42:41,212:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:42:42,234:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:42:42,242:INFO:Dickey-Fuller Test Done
+2019-07-29 19:42:42,243:INFO:Data transformation started
+2019-07-29 19:43:58,051:INFO:DataLoad Object Created
+2019-07-29 19:43:58,052:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:43:58,052:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:43:58,053:INFO:PreProcessing Object Created
+2019-07-29 19:43:58,054:INFO:DataModelling Object Created
+2019-07-29 19:43:58,054:INFO:Visualizer Object Created
+2019-07-29 19:43:58,055:INFO:Utility Object Created
+2019-07-29 19:43:58,144:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:43:58,200:INFO:Utility Object Created
+2019-07-29 19:43:58,207:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:43:59,116:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:43:59,124:INFO:Dickey-Fuller Test Done
+2019-07-29 19:43:59,126:INFO:Data transformation started
+2019-07-29 19:44:17,052:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:44:17,057:INFO:DataLoad Object Created
+2019-07-29 19:44:17,156:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:44:17,164:INFO:Data transformation started
+2019-07-29 19:44:17,595:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:44:17,826:INFO:Data transformation Done
+2019-07-29 19:46:53,397:INFO:DataLoad Object Created
+2019-07-29 19:46:53,398:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:46:53,398:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:46:53,399:INFO:PreProcessing Object Created
+2019-07-29 19:46:53,399:INFO:DataModelling Object Created
+2019-07-29 19:46:53,400:INFO:Visualizer Object Created
+2019-07-29 19:46:53,400:INFO:Utility Object Created
+2019-07-29 19:46:53,496:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:46:53,559:INFO:Utility Object Created
+2019-07-29 19:47:12,323:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:47:13,379:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:47:13,392:INFO:Dickey-Fuller Test Done
+2019-07-29 19:47:24,768:INFO:Data transformation started
+2019-07-29 19:49:45,645:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:49:45,646:INFO:DataLoad Object Created
+2019-07-29 19:49:45,692:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:49:45,694:INFO:Data transformation started
+2019-07-29 19:49:45,805:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:49:45,836:INFO:Data transformation Done
+2019-07-29 19:51:28,645:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:51:28,645:INFO:DataLoad Object Created
+2019-07-29 19:51:28,678:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:51:28,680:INFO:Data transformation started
+2019-07-29 19:51:28,750:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:51:28,764:INFO:Data transformation Done
+2019-07-29 19:51:28,772:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:51:28,772:INFO:DataLoad Object Created
+2019-07-29 19:51:28,813:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:51:28,831:INFO:DataLoad Object Created
+2019-07-29 19:51:28,867:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:51:28,868:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:51:28,868:INFO:DataLoad Object Created
+2019-07-29 19:51:28,906:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:51:28,914:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:51:28,914:INFO:DataLoad Object Created
+2019-07-29 19:51:28,948:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:51:28,948:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:51:29,777:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:51:29,778:INFO:Dickey-Fuller Test Done
+2019-07-29 19:51:56,595:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:51:56,595:INFO:DataLoad Object Created
+2019-07-29 19:51:56,632:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:51:56,633:INFO:Data transformation started
+2019-07-29 19:51:56,713:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:51:56,727:INFO:Data transformation Done
+2019-07-29 19:51:56,729:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:51:56,729:INFO:DataLoad Object Created
+2019-07-29 19:51:56,760:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:51:56,773:INFO:DataLoad Object Created
+2019-07-29 19:51:56,807:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:51:56,807:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:51:56,807:INFO:DataLoad Object Created
+2019-07-29 19:51:56,837:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:51:56,843:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:51:56,843:INFO:DataLoad Object Created
+2019-07-29 19:51:56,873:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:51:56,873:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:51:57,673:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:51:57,674:INFO:Dickey-Fuller Test Done
+2019-07-29 19:54:02,389:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:54:02,389:INFO:DataLoad Object Created
+2019-07-29 19:54:02,427:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:54:02,428:INFO:Data transformation started
+2019-07-29 19:54:02,501:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:54:02,514:INFO:Data transformation Done
+2019-07-29 19:54:02,516:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:54:02,516:INFO:DataLoad Object Created
+2019-07-29 19:54:02,548:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:54:02,561:INFO:DataLoad Object Created
+2019-07-29 19:54:02,592:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:54:02,593:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:54:02,593:INFO:DataLoad Object Created
+2019-07-29 19:54:02,622:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:54:02,628:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:54:02,628:INFO:DataLoad Object Created
+2019-07-29 19:54:02,657:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:54:02,658:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:54:03,495:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:54:03,504:INFO:Dickey-Fuller Test Done
+2019-07-29 19:57:01,071:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:57:01,071:INFO:DataLoad Object Created
+2019-07-29 19:57:01,107:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:57:01,108:INFO:Data transformation started
+2019-07-29 19:57:01,181:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:57:01,195:INFO:Data transformation Done
+2019-07-29 19:57:01,196:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:57:01,196:INFO:DataLoad Object Created
+2019-07-29 19:57:01,226:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:57:01,239:INFO:DataLoad Object Created
+2019-07-29 19:57:01,271:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:57:01,272:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:57:01,272:INFO:DataLoad Object Created
+2019-07-29 19:57:01,305:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:57:01,311:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:57:01,312:INFO:DataLoad Object Created
+2019-07-29 19:57:01,341:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:57:01,341:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:57:02,130:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:57:02,131:INFO:Dickey-Fuller Test Done
+2019-07-29 19:57:02,133:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:57:02,133:INFO:DataLoad Object Created
+2019-07-29 19:57:02,167:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:57:02,168:INFO:Data transformation started
+2019-07-29 19:57:02,230:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:57:02,246:INFO:Data transformation Done
+2019-07-29 19:57:02,246:INFO:Getting acf and pacf data
+2019-07-29 19:57:02,316:INFO:acf and pacf data acquired
+2019-07-29 19:58:28,133:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:58:28,133:INFO:DataLoad Object Created
+2019-07-29 19:58:28,169:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:58:28,170:INFO:Data transformation started
+2019-07-29 19:58:28,250:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:58:28,265:INFO:Data transformation Done
+2019-07-29 19:58:28,267:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:58:28,267:INFO:DataLoad Object Created
+2019-07-29 19:58:28,296:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:58:28,309:INFO:DataLoad Object Created
+2019-07-29 19:58:28,341:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:58:28,342:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:58:28,342:INFO:DataLoad Object Created
+2019-07-29 19:58:28,371:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:58:28,377:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:58:28,377:INFO:DataLoad Object Created
+2019-07-29 19:58:28,406:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:58:28,406:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:58:29,213:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:58:29,214:INFO:Dickey-Fuller Test Done
+2019-07-29 19:58:29,216:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:58:29,216:INFO:DataLoad Object Created
+2019-07-29 19:58:29,252:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:58:29,253:INFO:Data transformation started
+2019-07-29 19:58:29,316:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:58:29,328:INFO:Data transformation Done
+2019-07-29 19:58:29,328:INFO:Getting acf and pacf data
+2019-07-29 19:58:29,390:INFO:acf and pacf data acquired
+2019-07-29 19:58:59,279:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:58:59,279:INFO:DataLoad Object Created
+2019-07-29 19:58:59,311:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:58:59,312:INFO:Data transformation started
+2019-07-29 19:58:59,379:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:58:59,392:INFO:Data transformation Done
+2019-07-29 19:58:59,394:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:58:59,394:INFO:DataLoad Object Created
+2019-07-29 19:58:59,430:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:58:59,445:INFO:DataLoad Object Created
+2019-07-29 19:58:59,476:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:58:59,476:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:58:59,476:INFO:DataLoad Object Created
+2019-07-29 19:58:59,505:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:58:59,511:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:58:59,512:INFO:DataLoad Object Created
+2019-07-29 19:58:59,542:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:58:59,542:INFO:Result of Dickey-Fuller Test
+2019-07-29 19:59:00,345:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 19:59:00,345:INFO:Dickey-Fuller Test Done
+2019-07-29 19:59:00,347:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:59:00,347:INFO:DataLoad Object Created
+2019-07-29 19:59:00,383:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:59:00,384:INFO:Data transformation started
+2019-07-29 19:59:00,446:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:59:00,457:INFO:Data transformation Done
+2019-07-29 19:59:00,457:INFO:Getting acf and pacf data
+2019-07-29 19:59:00,517:INFO:acf and pacf data acquired
+2019-07-29 19:59:47,688:INFO:DataLoad Object Created
+2019-07-29 19:59:47,689:INFO:ExploratoryDataAnalysis Created
+2019-07-29 19:59:47,689:INFO:InitialDataAnalysis Object Created
+2019-07-29 19:59:47,690:INFO:PreProcessing Object Created
+2019-07-29 19:59:47,690:INFO:DataModelling Object Created
+2019-07-29 19:59:47,691:INFO:Visualizer Object Created
+2019-07-29 19:59:47,691:INFO:Utility Object Created
+2019-07-29 19:59:47,778:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 19:59:47,834:INFO:Utility Object Created
+2019-07-29 19:59:47,841:INFO:Data transformation started
+2019-07-29 19:59:48,274:INFO:                    ds   y  ...  y_log_ewma  y_log_ewma_diff
+6  2011-01-01 06:00:00   2  ...    0.693147         0.000000
+7  2011-01-01 07:00:00   3  ...    0.905909         0.192703
+8  2011-01-01 08:00:00   8  ...    1.336396         0.743046
+9  2011-01-01 09:00:00  14  ...    1.711905         0.927153
+10 2011-01-01 10:00:00  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 19:59:48,493:INFO:Data transformation Done
+2019-07-29 19:59:48,493:INFO:Getting acf and pacf data
+2019-07-29 19:59:48,564:INFO:acf and pacf data acquired
+2019-07-29 20:00:53,348:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:00:53,349:INFO:DataLoad Object Created
+2019-07-29 20:00:53,392:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:00:53,393:INFO:Data transformation started
+2019-07-29 20:00:53,469:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 20:00:53,483:INFO:Data transformation Done
+2019-07-29 20:00:53,485:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:00:53,485:INFO:DataLoad Object Created
+2019-07-29 20:00:53,525:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:00:53,544:INFO:DataLoad Object Created
+2019-07-29 20:00:53,586:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:00:53,587:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:00:53,587:INFO:DataLoad Object Created
+2019-07-29 20:00:53,623:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:00:53,630:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:00:53,631:INFO:DataLoad Object Created
+2019-07-29 20:00:53,664:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:00:53,664:INFO:Result of Dickey-Fuller Test
+2019-07-29 20:00:54,622:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 20:00:54,623:INFO:Dickey-Fuller Test Done
+2019-07-29 20:00:54,625:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:00:54,625:INFO:DataLoad Object Created
+2019-07-29 20:00:54,662:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:00:54,663:INFO:Data transformation started
+2019-07-29 20:00:54,724:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 20:00:54,736:INFO:Data transformation Done
+2019-07-29 20:00:54,736:INFO:Getting acf and pacf data
+2019-07-29 20:00:54,795:INFO:acf and pacf data acquired
+2019-07-29 20:01:06,495:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:01:06,495:INFO:DataLoad Object Created
+2019-07-29 20:01:06,533:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:01:06,534:INFO:Data transformation started
+2019-07-29 20:01:06,602:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 20:01:06,616:INFO:Data transformation Done
+2019-07-29 20:01:06,617:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:01:06,617:INFO:DataLoad Object Created
+2019-07-29 20:01:06,647:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:01:06,660:INFO:DataLoad Object Created
+2019-07-29 20:01:06,693:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:01:06,693:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:01:06,693:INFO:DataLoad Object Created
+2019-07-29 20:01:06,724:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:01:06,730:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:01:06,730:INFO:DataLoad Object Created
+2019-07-29 20:01:06,759:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:01:06,759:INFO:Result of Dickey-Fuller Test
+2019-07-29 20:01:07,562:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 20:01:07,562:INFO:Dickey-Fuller Test Done
+2019-07-29 20:01:07,564:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:01:07,564:INFO:DataLoad Object Created
+2019-07-29 20:01:07,600:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:01:07,602:INFO:Data transformation started
+2019-07-29 20:01:07,664:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 20:01:07,675:INFO:Data transformation Done
+2019-07-29 20:01:07,675:INFO:Getting acf and pacf data
+2019-07-29 20:01:07,735:INFO:acf and pacf data acquired
+2019-07-29 20:04:32,853:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:04:32,853:INFO:DataLoad Object Created
+2019-07-29 20:04:32,893:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:04:32,894:INFO:Data transformation started
+2019-07-29 20:04:33,020:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 20:04:33,045:INFO:Data transformation Done
+2019-07-29 20:04:33,045:INFO:DataModelling Object Created
+2019-07-29 20:04:33,045:INFO:Initializing ARIMA Data Modelling 
+2019-07-29 20:04:33,217:INFO:Making predictions for ARIMA Data Modelling 
+2019-07-29 20:04:33,226:INFO:ARIMA Data Modelling Done
+2019-07-29 20:04:33,228:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:04:33,228:INFO:DataLoad Object Created
+2019-07-29 20:04:33,265:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:04:33,266:INFO:Data transformation started
+2019-07-29 20:04:33,378:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 20:04:33,391:INFO:Data transformation Done
+2019-07-29 20:04:33,393:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:04:33,393:INFO:DataLoad Object Created
+2019-07-29 20:04:33,423:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:04:33,435:INFO:DataLoad Object Created
+2019-07-29 20:04:33,470:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:04:33,471:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:04:33,471:INFO:DataLoad Object Created
+2019-07-29 20:04:33,507:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:04:33,512:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:04:33,512:INFO:DataLoad Object Created
+2019-07-29 20:04:33,544:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:04:33,544:INFO:Result of Dickey-Fuller Test
+2019-07-29 20:04:34,385:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 20:04:34,386:INFO:Dickey-Fuller Test Done
+2019-07-29 20:04:34,388:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:04:34,388:INFO:DataLoad Object Created
+2019-07-29 20:04:34,427:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:04:34,428:INFO:Data transformation started
+2019-07-29 20:04:34,531:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 20:04:34,544:INFO:Data transformation Done
+2019-07-29 20:04:34,544:INFO:Getting acf and pacf data
+2019-07-29 20:04:34,609:INFO:acf and pacf data acquired
+2019-07-29 20:10:13,026:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:10:13,026:INFO:DataLoad Object Created
+2019-07-29 20:10:13,062:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:10:13,063:INFO:Data transformation started
+2019-07-29 20:10:13,182:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 20:10:13,198:INFO:Data transformation Done
+2019-07-29 20:10:13,198:INFO:DataModelling Object Created
+2019-07-29 20:10:13,198:INFO:Initializing ARIMA Data Modelling 
+2019-07-29 20:10:13,294:INFO:Making predictions for ARIMA Data Modelling 
+2019-07-29 20:10:13,297:INFO:ARIMA Data Modelling Done
+2019-07-29 20:10:13,298:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:10:13,298:INFO:DataLoad Object Created
+2019-07-29 20:10:13,328:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:10:13,328:INFO:Data transformation started
+2019-07-29 20:10:13,443:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 20:10:13,456:INFO:Data transformation Done
+2019-07-29 20:10:13,458:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:10:13,458:INFO:DataLoad Object Created
+2019-07-29 20:10:13,491:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:10:13,503:INFO:DataLoad Object Created
+2019-07-29 20:10:13,540:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:10:13,540:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:10:13,541:INFO:DataLoad Object Created
+2019-07-29 20:10:13,581:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:10:13,590:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:10:13,590:INFO:DataLoad Object Created
+2019-07-29 20:10:13,634:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:10:13,634:INFO:Result of Dickey-Fuller Test
+2019-07-29 20:10:14,696:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 20:10:14,702:INFO:Dickey-Fuller Test Done
+2019-07-29 20:10:14,709:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:10:14,710:INFO:DataLoad Object Created
+2019-07-29 20:10:14,748:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:10:14,749:INFO:Data transformation started
+2019-07-29 20:10:14,858:INFO:            ds   y  ...  y_log_ewma  y_log_ewma_diff
+6   2011-01-01   2  ...    0.693147         0.000000
+7   2011-01-01   3  ...    0.905909         0.192703
+8   2011-01-01   8  ...    1.336396         0.743046
+9   2011-01-01  14  ...    1.711905         0.927153
+10  2011-01-01  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 20:10:14,872:INFO:Data transformation Done
+2019-07-29 20:10:14,872:INFO:Getting acf and pacf data
+2019-07-29 20:10:14,934:INFO:acf and pacf data acquired
+2019-07-29 20:23:07,453:INFO:DataLoad Object Created
+2019-07-29 20:23:07,453:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:23:07,453:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:23:07,453:INFO:PreProcessing Object Created
+2019-07-29 20:23:07,453:INFO:DataModelling Object Created
+2019-07-29 20:23:07,453:INFO:Visualizer Object Created
+2019-07-29 20:23:07,453:INFO:Utility Object Created
+2019-07-29 20:23:07,485:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:23:07,506:INFO:Utility Object Created
+2019-07-29 20:24:01,513:INFO:DataLoad Object Created
+2019-07-29 20:24:01,514:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:24:01,514:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:24:01,514:INFO:PreProcessing Object Created
+2019-07-29 20:24:01,514:INFO:DataModelling Object Created
+2019-07-29 20:24:01,514:INFO:Visualizer Object Created
+2019-07-29 20:24:01,514:INFO:Utility Object Created
+2019-07-29 20:24:01,544:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:24:01,564:INFO:Utility Object Created
+2019-07-29 20:24:46,779:INFO:DataLoad Object Created
+2019-07-29 20:24:46,780:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:24:46,780:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:24:46,780:INFO:PreProcessing Object Created
+2019-07-29 20:24:46,780:INFO:DataModelling Object Created
+2019-07-29 20:24:46,780:INFO:Visualizer Object Created
+2019-07-29 20:24:46,780:INFO:Utility Object Created
+2019-07-29 20:24:46,811:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:24:46,832:INFO:Utility Object Created
+2019-07-29 20:25:26,991:INFO:DataLoad Object Created
+2019-07-29 20:25:26,992:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:25:26,993:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:25:26,993:INFO:PreProcessing Object Created
+2019-07-29 20:25:26,994:INFO:DataModelling Object Created
+2019-07-29 20:25:26,994:INFO:Visualizer Object Created
+2019-07-29 20:25:26,995:INFO:Utility Object Created
+2019-07-29 20:25:27,085:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:25:27,140:INFO:Utility Object Created
+2019-07-29 20:26:19,394:INFO:DataLoad Object Created
+2019-07-29 20:26:19,394:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:26:19,395:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:26:19,395:INFO:PreProcessing Object Created
+2019-07-29 20:26:19,396:INFO:DataModelling Object Created
+2019-07-29 20:26:19,396:INFO:Visualizer Object Created
+2019-07-29 20:26:19,397:INFO:Utility Object Created
+2019-07-29 20:26:19,487:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:26:19,546:INFO:Utility Object Created
+2019-07-29 20:26:48,481:INFO:DataLoad Object Created
+2019-07-29 20:26:48,481:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:26:48,481:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:26:48,481:INFO:PreProcessing Object Created
+2019-07-29 20:26:48,481:INFO:DataModelling Object Created
+2019-07-29 20:26:48,481:INFO:Visualizer Object Created
+2019-07-29 20:26:48,481:INFO:Utility Object Created
+2019-07-29 20:26:48,510:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:26:48,530:INFO:Utility Object Created
+2019-07-29 20:27:38,299:INFO:DataLoad Object Created
+2019-07-29 20:27:38,299:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:27:38,300:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:27:38,300:INFO:PreProcessing Object Created
+2019-07-29 20:27:38,301:INFO:DataModelling Object Created
+2019-07-29 20:27:38,301:INFO:Visualizer Object Created
+2019-07-29 20:27:38,302:INFO:Utility Object Created
+2019-07-29 20:27:38,393:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:27:38,449:INFO:Utility Object Created
+2019-07-29 20:28:25,582:INFO:DataLoad Object Created
+2019-07-29 20:28:25,582:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:28:25,582:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:28:25,582:INFO:PreProcessing Object Created
+2019-07-29 20:28:25,582:INFO:DataModelling Object Created
+2019-07-29 20:28:25,582:INFO:Visualizer Object Created
+2019-07-29 20:28:25,583:INFO:Utility Object Created
+2019-07-29 20:28:25,613:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:28:25,634:INFO:Utility Object Created
+2019-07-29 20:30:25,134:INFO:DataLoad Object Created
+2019-07-29 20:30:25,134:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:30:25,134:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:30:25,134:INFO:PreProcessing Object Created
+2019-07-29 20:30:25,134:INFO:DataModelling Object Created
+2019-07-29 20:30:25,134:INFO:Visualizer Object Created
+2019-07-29 20:30:25,134:INFO:Utility Object Created
+2019-07-29 20:30:25,166:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:30:25,187:INFO:Utility Object Created
+2019-07-29 20:30:42,224:INFO:DataLoad Object Created
+2019-07-29 20:30:42,224:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:30:42,224:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:30:42,224:INFO:PreProcessing Object Created
+2019-07-29 20:30:42,224:INFO:DataModelling Object Created
+2019-07-29 20:30:42,224:INFO:Visualizer Object Created
+2019-07-29 20:30:42,224:INFO:Utility Object Created
+2019-07-29 20:30:42,255:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:30:42,276:INFO:Utility Object Created
+2019-07-29 20:31:34,795:INFO:DataLoad Object Created
+2019-07-29 20:31:34,795:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:31:34,795:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:31:34,795:INFO:PreProcessing Object Created
+2019-07-29 20:31:34,795:INFO:DataModelling Object Created
+2019-07-29 20:31:34,795:INFO:Visualizer Object Created
+2019-07-29 20:31:34,795:INFO:Utility Object Created
+2019-07-29 20:31:34,826:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:31:34,847:INFO:Utility Object Created
+2019-07-29 20:31:40,457:INFO:Result of Dickey-Fuller Test
+2019-07-29 20:31:41,411:INFO:statistics           -6.822919e+00
+p-value               1.980863e-09
+# lag used            4.200000e+01
+No. of Obs used       1.733600e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 20:31:41,417:INFO:Dickey-Fuller Test Done
+2019-07-29 20:31:41,417:INFO:Data transformation started
+2019-07-29 20:31:41,566:INFO:                    ds   y  ...  y_log_ewma  y_log_ewma_diff
+6  2011-01-01 06:00:00   2  ...    0.693147         0.000000
+7  2011-01-01 07:00:00   3  ...    0.905909         0.192703
+8  2011-01-01 08:00:00   8  ...    1.336396         0.743046
+9  2011-01-01 09:00:00  14  ...    1.711905         0.927153
+10 2011-01-01 10:00:00  36  ...    2.163766         1.419752
+
+[5 rows x 10 columns]
+2019-07-29 20:31:41,579:INFO:Data transformation Done
+2019-07-29 20:31:52,820:INFO:Result of Dickey-Fuller Test
+2019-07-29 20:31:53,864:INFO:statistics           -7.807375e+00
+p-value               7.221110e-12
+# lag used            4.400000e+01
+No. of Obs used       1.732800e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 20:31:53,865:INFO:Dickey-Fuller Test Done
+2019-07-29 20:31:53,865:INFO:Result of Dickey-Fuller Test
+2019-07-29 20:31:54,849:INFO:statistics           -7.096922e+00
+p-value               4.265578e-10
+# lag used            4.400000e+01
+No. of Obs used       1.732800e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 20:31:54,849:INFO:Dickey-Fuller Test Done
+2019-07-29 20:31:54,849:INFO:Result of Dickey-Fuller Test
+2019-07-29 20:31:55,611:INFO:statistics           -6.249713e+00
+p-value               4.485030e-08
+# lag used            4.400000e+01
+No. of Obs used       1.732800e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 20:31:55,612:INFO:Dickey-Fuller Test Done
+2019-07-29 20:31:55,612:INFO:Result of Dickey-Fuller Test
+2019-07-29 20:31:56,294:INFO:statistics              -29.509001
+p-value                   0.000000
+# lag used               44.000000
+No. of Obs used       17328.000000
+Critical Value 1%        -3.430727
+Critical Value 5%        -2.861707
+Critical Value 10%       -2.566859
+dtype: float64
+2019-07-29 20:31:56,295:INFO:Dickey-Fuller Test Done
+2019-07-29 20:31:56,295:INFO:Result of Dickey-Fuller Test
+2019-07-29 20:31:56,972:INFO:statistics           -5.936328e+00
+p-value               2.316296e-07
+# lag used            4.400000e+01
+No. of Obs used       1.732800e+04
+Critical Value 1%    -3.430727e+00
+Critical Value 5%    -2.861707e+00
+Critical Value 10%   -2.566859e+00
+dtype: float64
+2019-07-29 20:31:56,973:INFO:Dickey-Fuller Test Done
+2019-07-29 20:31:56,973:INFO:Result of Dickey-Fuller Test
+2019-07-29 20:31:57,720:INFO:statistics              -27.228691
+p-value                   0.000000
+# lag used               43.000000
+No. of Obs used       17329.000000
+Critical Value 1%        -3.430727
+Critical Value 5%        -2.861707
+Critical Value 10%       -2.566859
+dtype: float64
+2019-07-29 20:31:57,720:INFO:Dickey-Fuller Test Done
+2019-07-29 20:31:57,720:INFO:Getting acf and pacf data
+2019-07-29 20:31:57,774:INFO:acf and pacf data acquired
+2019-07-29 20:31:59,772:INFO:Initializing ARIMA Data Modelling 
+2019-07-29 20:31:59,866:INFO:Making predictions for ARIMA Data Modelling 
+2019-07-29 20:31:59,869:INFO:ARIMA Data Modelling Done
+2019-07-29 20:31:59,869:INFO:for ARIMA model 0 0 2 for y_log_diff, MAE: 0.4292 RMSE: 0.6176
+2019-07-29 20:33:04,372:INFO:DataLoad Object Created
+2019-07-29 20:33:04,372:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:33:04,372:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:33:04,372:INFO:PreProcessing Object Created
+2019-07-29 20:33:04,372:INFO:DataModelling Object Created
+2019-07-29 20:33:04,372:INFO:Visualizer Object Created
+2019-07-29 20:33:04,372:INFO:Utility Object Created
+2019-07-29 20:33:04,404:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:33:04,425:INFO:Utility Object Created
+2019-07-29 20:33:07,082:INFO:data converted to float32 array
+2019-07-29 20:33:07,089:INFO: Data Normalisation Done 
+2019-07-29 20:33:07,122:INFO:Initializing LSTM Data Modelling 
+2019-07-29 20:33:24,250:INFO:DataLoad Object Created
+2019-07-29 20:33:24,250:INFO:ExploratoryDataAnalysis Created
+2019-07-29 20:33:24,250:INFO:InitialDataAnalysis Object Created
+2019-07-29 20:33:24,250:INFO:PreProcessing Object Created
+2019-07-29 20:33:24,250:INFO:DataModelling Object Created
+2019-07-29 20:33:24,250:INFO:Visualizer Object Created
+2019-07-29 20:33:24,250:INFO:Utility Object Created
+2019-07-29 20:33:24,281:INFO:Data loaded from data store path: ./Bike-Sharing-Dataset/hour.csv
+2019-07-29 20:33:24,301:INFO:Utility Object Created
+2019-07-29 20:33:27,005:INFO:data converted to float32 array
+2019-07-29 20:33:27,006:INFO: Data Normalisation Done 
+2019-07-29 20:33:27,028:INFO:Initializing LSTM Data Modelling 
